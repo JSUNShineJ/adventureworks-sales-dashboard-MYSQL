@@ -34,7 +34,7 @@ The project uses MySQL to prepare and validate the data, while Tableau is used f
 
 ## Dataset
 
-This project uses the publicly available AdventureWorks sample dataset.
+This project uses the publicly available [AdventureWorks sample dataset](https://www.kaggle.com/datasets/ukveteran/adventure-works/data).
 
 * 10 source tables
 * 56,046 sales line-item records
